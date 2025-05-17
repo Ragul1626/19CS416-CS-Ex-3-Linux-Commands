@@ -343,3 +343,4 @@ find <directory> -name <file_name>
 ![377742253-74844dc1-0c8a-45d3-ac0d-93da990187ca](https://github.com/user-attachments/assets/115065e3-c2aa-40c6-90a3-4c2d5d704b1f)
 
 ## Result
+Linux commands are executed in the linux terminal successfully.
