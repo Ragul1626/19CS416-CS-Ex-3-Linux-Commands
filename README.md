@@ -307,6 +307,7 @@ clear
 ### 28. `mail` Command
 
 The `mail` command is used to send emails from the command line.
+![379591289-2f4044fd-18f2-412f-9c12-b8b04a09a808](https://github.com/user-attachments/assets/cdb50b4c-c2f4-438c-9dcf-57ddb3e3322f)
 
 **Syntax:**
 ```bash
@@ -318,13 +319,16 @@ mail
 ### 29. `df` Command
 
 The `df` command displays the disk space usage of file systems.
+![379904978-db5cad74-8a0f-452f-bbd8-67ce911afbd0](https://github.com/user-attachments/assets/bef10e0c-f210-4806-9a50-948ec4c0601d)
 
 **Syntax:**
 ```bash
 df
 ```
+![379624313-8d3b62c0-5558-4162-a2cd-ea07d45701d7](https://github.com/user-attachments/assets/049ed396-7581-48d8-94ad-880c48127b17)
 
 **Output:**
+![377742253-74844dc1-0c8a-45d3-ac0d-93da990187ca](https://github.com/user-attachments/assets/9b6b7064-4305-4938-8451-16f7a19c695c)
 
 ### 30. `find` Command
 
@@ -336,5 +340,6 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![377742253-74844dc1-0c8a-45d3-ac0d-93da990187ca](https://github.com/user-attachments/assets/115065e3-c2aa-40c6-90a3-4c2d5d704b1f)
 
 ## Result
